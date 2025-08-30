@@ -70,8 +70,8 @@ A simple **React Native** mobile journal app that combines **daily horoscopes** 
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/micksharma/astro-journal.git
-cd astro-journal
+git clone https://github.com/micksharma/astro_app.git
+cd astro_app
 
 ### 2) Install dependencies
 npm install
